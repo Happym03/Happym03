@@ -2,8 +2,7 @@
 
 Compliance and risk professional transitioning into **GRC (Governance, Risk, and Compliance)** and cybersecurity compliance, backed by 10+ years in financial services compliance (FAIS, TCF, POPIA, RE5).
 
-- 🎓 CompTIA Security+ · ISC2 CC · RE5
-- 📚 Currently completing the Google Cybersecurity Professional Certificate
+- 🎓 CompTIA Security+ · ISC2 CC · Google Cybersecurity Professional Certificate · RE5 
 - 🌍 Based in Johannesburg, South Africa
 - 🔗 [LinkedIn](https://linkedin.com/in/thabile-mngoma-79552a184)
 
