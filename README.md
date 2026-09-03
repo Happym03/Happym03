@@ -1,26 +1,34 @@
 Hi, I'm Happy Thabile Mngoma 👋
+
 Junior GRC Analyst | IT Risk | Cybersecurity Compliance
+
 I am a Junior GRC and IT Risk professional with a Bachelor of Business Science and
 10+ years of experience in regulated, compliance-focused environments across
 financial services and customer operations.
+
 I combine regulated-industry experience with cybersecurity training and practical GRC
 portfolio work covering risk management, ISO/IEC 27001, NIST, POPIA, control
 assessment, third-party risk, business continuity, incident response and executive
 reporting.
+
 🎯 What I Can Do
 Risk Management - Risk identification, assessment and scoring - Risk registers and
 remediation tracking - Risk treatment planning and risk appetite - Inherent and residual
 risk analysis
+
 Security Compliance - ISO/IEC 27001:2022 control assessment and gap analysis - NIST
 Cybersecurity Framework - POPIA compliance and special personal information - Control
 mapping and evidence review
+
 Operational Resilience - Business Impact Analysis (BIA) - RTO/RPO planning - Business
 Continuity and Disaster Recovery - Incident Response playbooks
 Third-Party Risk - Vendor security and compliance assessment - Risk scoring and
 monitoring - Remediation tracking
+
 Governance & Reporting - Governance structures and RACI matrices - Policies,
 procedures and standards documentation - Audit findings and corrective actions -
 Executive dashboards and risk reporting
+
 🛡️ Featured GRC Portfolio
 My Contribution
 I designed and developed the portfolio programmes below, including: - Risk methodology
@@ -29,6 +37,7 @@ and gap analysis - Treatment planning and vendor assessment - Business continuit
 documentation - Incident-response playbooks - Executive reporting and dashboards
 All organisations and datasets are fictional and created for portfolio demonstration
 purposes.
+
 1. Happy Insurance Brokers — End-to-End GRC Programme
 View Repository
 My flagship GRC portfolio project: a complete programme for a fictional FAIS-authorised
@@ -52,12 +61,20 @@ South African insurance brokerage.
 • Remediation tracking and phased implementation plan
 Outcome: 14% fictional ISMS maturity assessment with evidence-based remediation
 roadmap.
-⏱️ Start here (10 minutes): 1. Executive Summary 2. Risk Register 3. ISO 27001 Gap
-Assessment 4. Audit Report 5. Executive Dashboard
+
+⏱️ Start here (10 minutes): 
+
+1. Executive Summary
+2. Risk Register
+3. ISO 27001 Gap Assessment
+4. Audit Report
+5. Executive Dashboard
+
 📊 Explore evidence: - Risk Register: shows identified risks, inherent/residual scores,
 ownership - ISO 27001 Gap Assessment: control-by-control compliance scoring - Vendor
 Risk Assessment: third-party evaluation methodology - Executive Dashboard: risk
 heatmap, KPIs and reporting
+
 2. Kopano Community Hospital — GRC Portfolio
 View Repository
 A healthcare-focused GRC case study for a fictional 200-bed hospital in South Africa.
@@ -75,6 +92,8 @@ records - Medical-device security risk register - Ransomware response playbooks 
 Business continuity and DR plans - Patient-safety incident procedures - Third-party risk
 (software/service providers)
 This project proves the same GRC principles adapt across regulated sectors.
+
+
 3. GambleGuard — Privacy-Focused Android Application
 View Repository
 An Android/Kotlin application demonstrating security and privacy thinking in application
@@ -84,33 +103,30 @@ storage only, no cloud account) - Sensitive-information protection - User securi
 Threat identification and risk mitigation
 Demonstrates the ability to translate real-world risk problems into practical technology
 solutions.
+
 📋 GRC Methodology
 My portfolio work follows a straightforward risk-management lifecycle:
 Identify → Assess → Treat → Monitor → Report
-Phas
-e
+Phase
 Focus
-Ident
-ify
-Assets, threats, vulnerabilities, regulatory obligations
-Asse
-ss
+Identify Assets, threats, vulnerabilities, regulatory obligations 
+Assess
 Likelihood, impact, inherent risk, control effectiveness, residual
 risk
 Treat Mitigate, transfer, avoid, accept
-Moni
-tor
+Monitor
 Control status, remediation progress, residual risk, audit
 findings
-Repo
-rt
+Report
 Management reporting, risk dashboards, escalations
+
 🧰 Certifications & Training
 • CompTIA Security+ (SY0-701) — Passed
 • ISC2 Certified in Cybersecurity (CC) — Passed
 • Google Cybersecurity Professional Certificate — Completed August 2026
 • RE5 — Representatives in All Categories of Financial Services Providers
 • TryHackMe SOC Level 1 — In progress
+
 💼 Professional Background
 I bring 10+ years of regulated-environment experience where documentation,
 compliance, exception handling and escalation matter:
@@ -120,6 +136,7 @@ compliance, exception handling and escalation matter:
 • MultiChoice — Customer operations, data quality and accuracy
 This regulated-industry background gives me business and operational perspective I bring
 into cybersecurity and GRC work.
+
 📚 What I'm Developing
 I'm strengthening practical capability in:
 • ISO/IEC 27001 control testing and evidence evaluation
@@ -127,15 +144,20 @@ I'm strengthening practical capability in:
 • Advanced third-party risk assessment
 • GRC technology tools and automation
 • Regulatory compliance frameworks (POPIA, FAIS, NIST)
+
 🔎 Open To
 I'm seeking opportunities in:
 • Junior GRC Analyst | GRC Analyst
 • IT Risk Analyst | Technology Risk Analyst
 • Cybersecurity Compliance Analyst | Information Security GRC
 • IT Compliance Analyst | Risk & Compliance Analyst
+
 📫 Connect
 • LinkedIn: linkedin.com/in/thabile-mngoma-79552a184
 • GitHub: github.com/Happym03
+
+
+
 Portfolio Note: All organisations, datasets and findings in these projects are fictional and
 created for portfolio purposes. They are designed to demonstrate practical GRC
 methodology, documentation, analytical thinking and governance frameworks.
