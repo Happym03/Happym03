@@ -72,9 +72,9 @@ My portfolio work follows a structured risk management lifecycle: **Identify →
 
 ## 🧰 Certifications & Education
 
-* **ISC2 Certified in Cybersecurity (CC)** — Passed
+* **ISC2 Certified in Cybersecurity (CC)** — Completed
 * **Google Cybersecurity Professional Certificate** — Completed
-* **CompTIA Security+ (SY0-701)** — Preparation Complete
+* **CompTIA Security+ (SY0-701)** — Completed
 * **RE5** — Representatives in All Categories of Financial Services Providers
 * **TryHackMe SOC Level 1** — Active Learner
 * **Bachelor of Business Science**
