@@ -17,6 +17,16 @@ I combine regulated-industry experience with cybersecurity certifications and ha
 - **Governance & Reporting:** Board charter design, RACI decision matrices, policy drafting, audit observation reports, and interactive executive dashboards.
 
 ---
+## ⚡ Recruiter Quick View — Key Capabilities Demonstrated
+
+| Domain | What This Project Proves | Supporting Artifact |
+| :--- | :--- | :--- |
+| **Risk Management** | Identifies assets, models threats, calculates inherent/residual risk via 5x5 matrix | `Happy_Insurance_Brokers_Risk_Register.xlsx` & `data/risks.json` |
+| **ISO 27001 Alignment** | Assesses all 93 Annex A controls, identifies gaps, builds 4-phase roadmap | `Happy_Insurance_Brokers_ISO27001_Gap_Assessment.xlsx` |
+| **Governance & Policy** | Establishes RACI matrix, Board risk appetite tolerances, security policies | `Happy_Insurance_Brokers_Governance_Charter.docx` |
+| **Regulatory Compliance** | Maps POPIA, FAIS, TCF, PCI DSS obligations with explicit scope rationale | `Happy_Insurance_Brokers_Compliance_Obligations_Register.xlsx` |
+| **Operational Resilience** | Calculates MTD/RTO/RPO targets, writes scenario incident playbooks | `Happy_Insurance_Brokers_BIA.xlsx` |
+| **Third-Party Risk (TPRM)**| Evaluates vendor security, financial stability, and data protection practices | `Happy_Insurance_Brokers_Vendor_Risk_Assessment.xlsx` |
 
 ## 🛡️ Featured GRC Portfolio
 
