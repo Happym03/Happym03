@@ -51,7 +51,7 @@ My flagship GRC portfolio project: a complete, end-to-end programme for a fictio
 ---
 
 ### 2. Kopano Community Hospital — Healthcare GRC Case Study
-[📂 View Repository](https://github.com/Happym03)
+[📂 View Repository](https://github.com/Happym03/Kopano_Community_Hospital_GRC_Portfolio)
 
 A sector-specific GRC framework adapted for a fictional 200-bed regional hospital in South Africa. Demonstrates cross-industry transferability of core GRC principles:
 * **Focus Areas:** Special personal information under POPIA, clinical information systems, medical device risk scoring, patient safety procedures, and ransomware/data breach playbooks for critical healthcare services.
@@ -59,7 +59,7 @@ A sector-specific GRC framework adapted for a fictional 200-bed regional hospita
 ---
 
 ### 3. GambleGuard — Privacy-Focused Mobile Application
-[📂 View Repository](https://github.com/Happym03)
+[📂 View Repository](https://github.com/Happym03/GambleGuard-Project)
 
 An Android/Kotlin application showcasing security and privacy-by-design principles in software engineering:
 * **Security Themes:** Data minimization (100% local storage, zero cloud telemetry), user access controls, threat modeling, and local data protection.
